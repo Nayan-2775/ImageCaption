@@ -4,3 +4,4 @@ tensorflow
 tqdm
 matplotlib
 seaborn
+streamlit
